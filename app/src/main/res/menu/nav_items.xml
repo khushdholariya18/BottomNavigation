@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        />
+
+    <item
+        android:id="@+id/nav_utilities"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Utilitits"
+        />
+
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="ContactUs"
+        />
+
+    <item
+        android:id="@+id/nav_mypro"
+        android:icon="@drawable/ic_baseline_co_present_24"
+        android:title="My Profile"
+        />
+
+
+</menu>
